@@ -1,4 +1,4 @@
-[1:58 PM, 6/15/2026] Jemjem: # 🛍️ E-Commerce Sales Analysis
+
 ## Excel Dashboard | Global E-Commerce Sales Data
 
 ---
