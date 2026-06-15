@@ -199,5 +199,5 @@ This project demonstrates the use of Power BI to build a clear, filterable suppl
 
 *Connect with me!*
 📂 Portfolio by: Jemilah Alao
-🔗 Repository:
+🔗 Repository: https://github.com/alaojemilah/supply_chain_analysis_powerbi
 📧 Email: alao.jemilah@gmail.com
